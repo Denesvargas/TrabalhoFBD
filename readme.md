@@ -5,7 +5,7 @@ Arrumar diagrama ER;  OK
 Arrumar banco;        OK  
 Popular tabelas;      OK  
 Fazer diagrama UML de classes;   OK  
-Implementar 'autoincremento' 'view' e 'triggers';  OK
+Implementar 'autoincremento' 'view' e 'triggers';  OK 
 Implementar CRUD;  OK  
 Relatório;  OK
   
