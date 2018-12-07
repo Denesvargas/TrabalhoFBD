@@ -1,5 +1,5 @@
 
-Repositório pro trabalho de FDB, ta dentro do de SO por que nao tenho saco pra mexer no git.
+Repositório pro trabalho de FDB.
 
 Arrumar diagrama ER;  OK  
 Arrumar banco;        OK  
